@@ -1,0 +1,108 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* hr {
+    color: white;
+}
+
+.customnav .custombtn {
+    border: 0px white;
+}
+
+.customnav button:hover {
+    background-color: #003087;
+    color: white;
+}
+
+.customnav button {
+    width: 125px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 20px;
+    color: #003087;
+    border-color: #003087;
+}
+
+.customnav a {
+    color: #003087;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.herobanner {
+    background-color: #003087;
+    width: 100%;
+    height: auto;
+}
+
+.herobanner .newpaypal {
+    padding-top: 100px;
+    color: white;
+    font-size: 100px;
+    line-height: 100px;
+}
+
+.herobanner .newpaypal p {
+    color: rgb(136, 136, 223);
+    font-size: 20px;
+}
+
+.herobanner .newpaypal1 {
+    font-size: 20px;
+    color: white;
+}
+
+.herobanner .newpaypal2 {
+    display: flex;
+    gap: 50px;
+}
+
+.herobanner .newpaypal2 input {
+    height: 60px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.herobanner .newpaypal2 button {
+    background-color: rgb(255, 255, 10);
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.herobanner .newpaypal2 a {
+    color: white;
+    font-weight: bold;
+}
+
+.newpaypal0 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.connect {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+.herobanner10 .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.herobanner10 .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
